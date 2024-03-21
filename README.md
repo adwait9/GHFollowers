@@ -46,6 +46,7 @@
 
 #### The Favorites Screen:
 ![](Assets/FavoritesScreen.png)
+![](Assets/NoFavorites.png)
 
 ---
 ## Credits
