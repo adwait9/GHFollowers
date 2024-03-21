@@ -1,5 +1,5 @@
 # GHFollowers
-### An app where user can search a GitHub profile via Username for their followers and can also add favorites. This is a tutorial course by Sean Allen (take home project), which has been developed by programmatic UI (no storyboards)😁.
+### An app where user can search a GitHub profile via Username for their followers and can also add favorites. This is a tutorial course by Sean Allen (take home project), which has been developed by programmatic UI (no storyboards).
 
 - [x] 100% ProgrammaticUI
 - [x] CollectionViews with the new DiffableDataSource
@@ -30,27 +30,22 @@
 
 
 #### The Landing Screen:
-![](Assets/LandScreen.png)
+![](Assets/LandingScreen.png)
 
 ---
 
 #### The Followers Screen:
-![](Assets/Followers.png)
+![](Assets/FollowersScreen.png)
 
 ---
 
 #### The User Info Screen:
-![](Assets/UserInfo.png)
+![](Assets/UserInfoScreen.png)
 
 ---
 
 #### The Favorites Screen:
-![](Assets/Favorites.png)
-
----
-
-#### Demo of the app:
-![Preview](Assets/AppDemo.gif)
+![](Assets/FavoritesScreen.png)
 
 ---
 ## Credits
